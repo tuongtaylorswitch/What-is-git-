@@ -1,2 +1,2 @@
 print(123)
-print("?????")
+print("beta te te te")
